@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This is a main page.
+<span style="color:blue"> This is page is under construction. </span>
 
 
 
