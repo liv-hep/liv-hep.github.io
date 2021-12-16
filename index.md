@@ -8,9 +8,9 @@ layout: default
 
 # LIV theory  
 
-we put some discription here.
+we put some description here.
 
 # Transformation   
 
-![from solar <-> siderial](https://scitechdaily.com/images/Gravitational-Waves.gif)
+![from solar <-> siderial](https://www.phys.ens.fr/~troost/beyondstringtheory/earth.gif)
 
